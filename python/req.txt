@@ -1,6 +1,0 @@
-mnemonic
-futures
-base58
-hashlib
-bech32
-requests
