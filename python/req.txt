@@ -1,0 +1,6 @@
+hashlib
+base58
+bech32
+requests
+mnemonic
+pycryptodome
